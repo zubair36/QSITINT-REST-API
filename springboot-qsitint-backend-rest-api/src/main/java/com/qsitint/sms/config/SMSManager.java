@@ -21,7 +21,7 @@ public class SMSManager {
             creator.create();
         } else {
             throw new IllegalArgumentException(
-                    "Phone number [" + smsTo + "] is not a valid number"
+                    "Phone number [" + smsTo + "] is not valid number"
             );
         }
 
