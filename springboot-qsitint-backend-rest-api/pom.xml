@@ -12,7 +12,7 @@
 	<artifactId>qsitint-rest-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>qsitint-rest-api</name>
-	<description>QSITINT assignment project for Spring Boot and ReactJS</description>
+	<description>QSITINT assignment project for Spring Boot and React.JS</description>
 
 	<properties>
 		<java.version>1.8</java.version>
